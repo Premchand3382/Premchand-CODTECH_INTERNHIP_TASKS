@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import datetime
 
-API_KEY = "4e76e831898329aaa7d2cdb0dd2d241a" # Replace with your actual API key
+API_KEY = "#" # Replace with your actual API key
 CITY = "chittoor" #select your wish 
 BASE_URL = "http://api.openweathermap.org/data/2.5/forecast"
 
